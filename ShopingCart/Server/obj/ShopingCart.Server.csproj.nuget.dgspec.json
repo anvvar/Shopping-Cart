@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Server\\ShopingCart.Server.csproj": {}
+  },
+  "projects": {
+    "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Client\\ShopingCart.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Client\\ShopingCart.Client.csproj",
+        "projectName": "ShopingCart.Client",
+        "projectPath": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Client\\ShopingCart.Client.csproj",
+        "packagesPath": "C:\\Users\\91960\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\91960\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Shared\\ShopingCart.Shared.csproj": {
+                "projectPath": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Shared\\ShopingCart.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Server\\ShopingCart.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Server\\ShopingCart.Server.csproj",
+        "projectName": "ShopingCart.Server",
+        "projectPath": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Server\\ShopingCart.Server.csproj",
+        "packagesPath": "C:\\Users\\91960\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\91960\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Client\\ShopingCart.Client.csproj": {
+                "projectPath": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Client\\ShopingCart.Client.csproj"
+              },
+              "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Shared\\ShopingCart.Shared.csproj": {
+                "projectPath": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Shared\\ShopingCart.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Shared\\ShopingCart.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Shared\\ShopingCart.Shared.csproj",
+        "projectName": "ShopingCart.Shared",
+        "projectPath": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Shared\\ShopingCart.Shared.csproj",
+        "packagesPath": "C:\\Users\\91960\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\91960\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
