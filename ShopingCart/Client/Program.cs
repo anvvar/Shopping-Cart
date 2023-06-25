@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
-using ShopingCart.Client;
-using ShopingCart.Client.Services.CategoryService;
-using ShopingCart.Client.Services.ProductService;
+using ShoppingCart.Client;
+using ShoppingCart.Client.Services.CategoryService;
+using ShoppingCart.Client.Services.ProductService;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");

@@ -1,7 +1,7 @@
-﻿using ShopingCart.Server.Pages.Services.CategoryService;
-using ShopingCart.Shared;
+﻿using ShoppingCart.Server.Pages.Services.CategoryService;
+using ShoppingCart.Shared;
 
-namespace ShopingCart.Server.Pages.Services.ProductService
+namespace ShoppingCart.Server.Pages.Services.ProductService
 {
     public class ProductService : IProductService
     {

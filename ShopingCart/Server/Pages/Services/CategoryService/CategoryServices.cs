@@ -1,7 +1,7 @@
-﻿using ShopingCart.Shared;
+﻿using ShoppingCart.Shared;
 using System.Runtime.InteropServices;
 
-namespace ShopingCart.Server.Pages.Services.CategoryService
+namespace ShoppingCart.Server.Pages.Services.CategoryService
 {
     public class CategoryServices : ICategoryService
     {

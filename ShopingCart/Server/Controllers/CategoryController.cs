@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using ShopingCart.Server.Pages.Services.CategoryService;
-using ShopingCart.Shared;
+using ShoppingCart.Server.Pages.Services.CategoryService;
+using ShoppingCart.Shared;
 
-namespace ShopingCart.Server.Controllers
+namespace ShoppingCart.Server.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

@@ -499,14 +499,14 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "ShopingCart.Shared/1.0.0": {
+      "ShoppingCart.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/ShopingCart.Shared.dll": {}
+          "bin/placeholder/ShoppingCart.Shared.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ShopingCart.Shared.dll": {}
+          "bin/placeholder/ShoppingCart.Shared.dll": {}
         }
       }
     },
@@ -1002,14 +1002,14 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "ShopingCart.Shared/1.0.0": {
+      "ShoppingCart.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/ShopingCart.Shared.dll": {}
+          "bin/placeholder/ShoppingCart.Shared.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ShopingCart.Shared.dll": {}
+          "bin/placeholder/ShoppingCart.Shared.dll": {}
         }
       }
     }
@@ -1774,17 +1774,17 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "ShopingCart.Shared/1.0.0": {
+    "ShoppingCart.Shared/1.0.0": {
       "type": "project",
-      "path": "../Shared/ShopingCart.Shared.csproj",
-      "msbuildProject": "../Shared/ShopingCart.Shared.csproj"
+      "path": "../Shared/ShoppingCart.Shared.csproj",
+      "msbuildProject": "../Shared/ShoppingCart.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.15",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.15",
-      "ShopingCart.Shared >= 1.0.0"
+      "ShoppingCart.Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1793,9 +1793,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Client\\ShopingCart.Client.csproj",
-      "projectName": "ShopingCart.Client",
-      "projectPath": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Client\\ShopingCart.Client.csproj",
+      "projectUniqueName": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Client\\ShoppingCart.Client.csproj",
+      "projectName": "ShoppingCart.Client",
+      "projectPath": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Client\\ShoppingCart.Client.csproj",
       "packagesPath": "C:\\Users\\91960\\.nuget\\packages\\",
       "outputPath": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Client\\obj\\",
       "projectStyle": "PackageReference",
@@ -1814,8 +1814,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Shared\\ShopingCart.Shared.csproj": {
-              "projectPath": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Shared\\ShopingCart.Shared.csproj"
+            "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Shared\\ShoppingCart.Shared.csproj": {
+              "projectPath": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Shared\\ShoppingCart.Shared.csproj"
             }
           }
         }

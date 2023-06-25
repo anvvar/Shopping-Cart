@@ -2,7 +2,7 @@
   "cacheBootResources": true,
   "config": [ ],
   "debugBuild": true,
-  "entryAssembly": "ShopingCart.Client",
+  "entryAssembly": "ShoppingCart.Client",
   "icuDataMode": 0,
   "linkerEnabled": false,
   "resources": {
@@ -196,15 +196,15 @@
       "mscorlib.dll": "sha256-C3gpWQMELcHYfrHU\/1agQUvWTtSNs9Ul2suMxcKFnIc=",
       "netstandard.dll": "sha256-CgGkoZQx73t3qchcsu85kgBcgrjNEOiudArOwKNb18k=",
       "System.Private.CoreLib.dll": "sha256-6nUSjiT7okMlkN897OnDypwppYuK7JxTahOClXkAuwE=",
-      "ShopingCart.Shared.dll": "sha256-YW7LymJYgMHbQXeSxQPm\/pHa8BjWlRYl5No63gySm48=",
-      "ShopingCart.Client.dll": "sha256-M6vxnnKidXEkf4qCWojm0xa2fzR0Ek4oMEN0uKbKAqU="
+      "ShoppingCart.Shared.dll": "sha256-HZMvUKUfBmorhOShybRoHdeq3aBd3Q22Z+9DFw4rxwE=",
+      "ShoppingCart.Client.dll": "sha256-pmgW2uV10FZO012Cz8lq4xt8VSvl+byrsWcX5Dmi6KU="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "ShopingCart.Shared.pdb": "sha256-ipVbDX5JT4hO6t8EweY8aHytzxRrqgNu4SgldbIB8DM=",
-      "ShopingCart.Client.pdb": "sha256-xHzBfuFgCKEfOcBzURYn2T4sjbdD9iHz0WqPkbbnIOs="
+      "ShoppingCart.Shared.pdb": "sha256-hnQM1bLvODKJQk+dubeMWiellF0zpxizxgTlgn67wSM=",
+      "ShoppingCart.Client.pdb": "sha256-y7vKzdPnMHVDvDSrDZlIWtQ22Tedg60KAD8XR40IWWw="
     },
     "runtime": {
       "dotnet.6.0.16.op633mfqih.js": "sha256-GT2gK+GjOisRXJY+9yh6H8s6K\/KDIsaFMFIgWvAnttY=",

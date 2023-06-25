@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShopingCart.Shared
+namespace ShoppingCart.Shared
 {
    public class Category
     {

@@ -1,8 +1,8 @@
 ﻿using Microsoft.Extensions.Primitives;
-using ShopingCart.Shared;
+using ShoppingCart.Shared;
 using System.Net.Http.Json;
 
-namespace ShopingCart.Client.Services.ProductService
+namespace ShoppingCart.Client.Services.ProductService
 {
     public class ProductService : IProductService
     {

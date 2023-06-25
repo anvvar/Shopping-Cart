@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using ShopingCart.Shared;
+using ShoppingCart.Shared;
 
-namespace ShopingCart.Server.Controllers
+namespace ShoppingCart.Server.Controllers
 {
     [ApiController]
     [Route("[controller]")]

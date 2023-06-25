@@ -9,8 +9,8 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ShopingCart.Client.styles.css",
-      "PackagePath": "staticwebassets\\ShopingCart.Client.styles.css"
+      "Id": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ShoppingCart.Client.styles.css",
+      "PackagePath": "staticwebassets\\ShoppingCart.Client.styles.css"
     },
     {
       "Id": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Client\\wwwroot\\css\\app.css",
@@ -73,20 +73,20 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ShopingCart.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ShoppingCart.Client.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ShopingCart.Client.props",
-      "PackagePath": "build\\ShopingCart.Client.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ShoppingCart.Client.props",
+      "PackagePath": "build\\ShoppingCart.Client.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopingCart.Client.props",
-      "PackagePath": "buildMultiTargeting\\ShopingCart.Client.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ShoppingCart.Client.props",
+      "PackagePath": "buildMultiTargeting\\ShoppingCart.Client.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ShopingCart.Client.props",
-      "PackagePath": "buildTransitive\\ShopingCart.Client.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ShoppingCart.Client.props",
+      "PackagePath": "buildTransitive\\ShoppingCart.Client.props"
     }
   ],
   "ElementsToRemove": []

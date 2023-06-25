@@ -1,0 +1,12 @@
+D:\ASP_NET\ShopingCart\ShopingCart\Shared\bin\Debug\net6.0\ShoppingCart.Shared.deps.json
+D:\ASP_NET\ShopingCart\ShopingCart\Shared\bin\Debug\net6.0\ShoppingCart.Shared.dll
+D:\ASP_NET\ShopingCart\ShopingCart\Shared\bin\Debug\net6.0\ShoppingCart.Shared.pdb
+D:\ASP_NET\ShopingCart\ShopingCart\Shared\obj\Debug\net6.0\ShoppingCart.Shared.csproj.AssemblyReference.cache
+D:\ASP_NET\ShopingCart\ShopingCart\Shared\obj\Debug\net6.0\ShoppingCart.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP_NET\ShopingCart\ShopingCart\Shared\obj\Debug\net6.0\ShoppingCart.Shared.AssemblyInfoInputs.cache
+D:\ASP_NET\ShopingCart\ShopingCart\Shared\obj\Debug\net6.0\ShoppingCart.Shared.AssemblyInfo.cs
+D:\ASP_NET\ShopingCart\ShopingCart\Shared\obj\Debug\net6.0\ShoppingCart.Shared.csproj.CoreCompileInputs.cache
+D:\ASP_NET\ShopingCart\ShopingCart\Shared\obj\Debug\net6.0\ShoppingCart.Shared.dll
+D:\ASP_NET\ShopingCart\ShopingCart\Shared\obj\Debug\net6.0\refint\ShoppingCart.Shared.dll
+D:\ASP_NET\ShopingCart\ShopingCart\Shared\obj\Debug\net6.0\ShoppingCart.Shared.pdb
+D:\ASP_NET\ShopingCart\ShopingCart\Shared\obj\Debug\net6.0\ref\ShoppingCart.Shared.dll

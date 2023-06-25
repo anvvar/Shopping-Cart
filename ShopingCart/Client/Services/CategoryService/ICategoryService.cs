@@ -1,5 +1,5 @@
-﻿using ShopingCart.Shared;
-namespace ShopingCart.Client.Services.CategoryService
+﻿using ShoppingCart.Shared;
+namespace ShoppingCart.Client.Services.CategoryService
 {
     public interface ICategoryService
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ol7qDnGOTay+1DoHO1E9Xh8+0Lfoovo2tjmA9wF5eMuhtpVak+j8SLh7FFA0IjGmyvcFxUZexS28DRVo1xGEow==",
+  "dgSpecHash": "XoEJ1T5PGa8Hutu1glJTQo86FMWhYSvzsUlH87c6yfGrI2mDwtp545ZvCJkFdfB5ImAEhZvjVcYhABPpQzlZag==",
   "success": true,
-  "projectFilePath": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Client\\ShopingCart.Client.csproj",
+  "projectFilePath": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Client\\ShoppingCart.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\91960\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.15\\microsoft.aspnetcore.authorization.6.0.15.nupkg.sha512",
     "C:\\Users\\91960\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.15\\microsoft.aspnetcore.components.6.0.15.nupkg.sha512",

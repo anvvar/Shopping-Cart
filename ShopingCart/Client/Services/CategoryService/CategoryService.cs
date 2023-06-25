@@ -1,6 +1,6 @@
-﻿using ShopingCart.Shared;
+﻿using ShoppingCart.Shared;
 using System.Net.Http.Json;
-namespace ShopingCart.Client.Services.CategoryService
+namespace ShoppingCart.Client.Services.CategoryService
 {
     public class CategoryService : ICategoryService
     {

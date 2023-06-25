@@ -1,4 +1,4 @@
-namespace ShopingCart.Shared
+namespace ShoppingCart.Shared
 {
     public class WeatherForecast
     {

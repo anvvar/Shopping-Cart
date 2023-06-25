@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KVv8PZA3iwuxLgHzjNiC4JOj2+GaXX//Id2NtCAMzgS50u0ffKCreOEYkFo9Q47VBhM0rMXnU37+38VZiqqBLg==",
+  "dgSpecHash": "Bocg3wKP+umSza7wKM/ggcUM2eeyC6uh9jJ0J77Fdk3y8L2nklJLtTZvV2RxHt1aRerdip82TQovCI2OkkrCfg==",
   "success": true,
-  "projectFilePath": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Shared\\ShopingCart.Shared.csproj",
+  "projectFilePath": "D:\\ASP_NET\\ShopingCart\\ShopingCart\\Shared\\ShoppingCart.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

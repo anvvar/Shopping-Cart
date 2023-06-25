@@ -1,18 +1,22 @@
 
 using Microsoft.AspNetCore.ResponseCompression;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.VisualBasic.FileIO;
-using ShopingCart.Server.Pages.Services.CategoryService;
-using ShopingCart.Server.Pages.Services.ProductService;
+using ShoppingCart.Server.Pages.Services.CategoryService;
+using ShoppingCart.Server.Pages.Services.ProductService;
 
 var builder = WebApplication.CreateBuilder(args);
-
 // Add services to the container.
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
-
+//custom services added to the container
 builder.Services.AddScoped<ICategoryService, CategoryServices>();
 builder.Services.AddScoped<IProductService, ProductService>();
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<DbContext>(options => options.UseSqlServer(connectionString));
+
+//End of custom services
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
